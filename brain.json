@@ -1,0 +1,28 @@
+{
+  "queries": [
+    {
+      "query": "Hello",
+      "response": "Hello there!"
+    },
+    {
+      "query": "Hi",
+      "response": "Hello! How aer you doing"
+    },
+    {
+      "query": "Hi there",
+      "response": "Hello! How are you doing?"
+    },
+    {
+      "query": "How are you doing",
+      "response": "I am doing great, thank you."
+    },
+    {
+      "query": "What is your name?",
+      "response": "My name is Ralph."
+    },
+    {
+      "query": "What can I call you?",
+      "response": "you can call me Ralph"
+    }
+  ]
+}
